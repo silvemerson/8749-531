@@ -1,0 +1,5 @@
+disk_size = 10
+ip_publico = "35.188.189.182"
+machine_type = "e2-medium"
+vm_name = "servidor-web"
+zone = "us-central1-c"
