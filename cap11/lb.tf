@@ -7,3 +7,4 @@ module "modulo-lb-tf-cap11" {
     service_port = 80
     target_tags = ["cap11-web"]
 }
+
